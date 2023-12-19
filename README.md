@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android
 - 🤺  about me:
 
-  我是winiy
+  I am winiy
   
-  热爱篮球，旅行
+  a Android developer
   
-  立志成为一名资深Andorid开发者
-  
-  希望这个世界更加美好，每天都要进步啊！
+  <-To make each count.->
 
 
 
