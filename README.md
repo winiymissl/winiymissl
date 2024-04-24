@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);用代码改变世界!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);To be stronger!&center=true&size=27"> </a> </h1>
 
   人类一切的痛苦都是源于无能的愤怒
   ![微信图片_20231120102114](https://github.com/winiymissl/winiymissl/assets/116079361/46420119-b7aa-42fb-81c1-6794b46d0a2a)
