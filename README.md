@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android,python,C++,Js,kotlin
 - 🤺  about me:
 
   I am winiy,
