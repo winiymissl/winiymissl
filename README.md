@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Android, python, C++, Js, kotlin, Html
+- 🌱 I’m currently learning Android, Java, python, C++, Js, kotlin, Html
 - 🤺  about me:
 
   I am winiy,
   
   a man who is trying to love someone .
   
-  <-To make each count.->
+  <-To make each day count.->
 
   人类一切的痛苦都是源于无能的愤怒
 <div style="display: flex; justify-content: space-between;">
